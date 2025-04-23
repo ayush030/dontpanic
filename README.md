@@ -1,4 +1,11 @@
-## REFERENCES
+I have often found it hard to explain people who are new to Golang (or maybe to coding itself) that panics and error shouldn't be treated the same way. Throwing panics on every error is not the go to way.
+Hence, this repository is a linter that helps to do the same and saves a lot of debugging time.
+
+![yogilang](https://github.com/user-attachments/assets/5412bd1b-5524-4536-964f-672be49851c1)
+[Image credit - ChatGPT]
+
+
+## Beginner References
 
 [Unitchecker](https://pkg.go.dev/golang.org/x/tools/go/analysis/unitchecker) VS [Singlechecker](https://pkg.go.dev/golang.org/x/tools/go/analysis/singlechecker)-
 
