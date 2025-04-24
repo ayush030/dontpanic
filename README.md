@@ -4,6 +4,11 @@ Hence, this repository is a linter that prevents such behaviour and at same time
 ![yogilang](https://github.com/user-attachments/assets/5412bd1b-5524-4536-964f-672be49851c1)
 [Image credit - ChatGPT]
 
+To compile 
+1. as a standalone utility, run  
+    `make build-standalone`
+2. as a plugin to be integrated with golangci-lint, run  
+    `make build-plugin`
 
 ## Beginner References
 
