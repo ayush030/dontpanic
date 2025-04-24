@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dontpanic/analyzer"
+	"github.com/ayush030/dontpanic/analyzer"
 
 	"golang.org/x/tools/go/analysis/singlechecker"
 )

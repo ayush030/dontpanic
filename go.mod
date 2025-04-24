@@ -1,4 +1,4 @@
-module dontpanic
+module github.com/ayush030/dontpanic
 
 go 1.24.2
 

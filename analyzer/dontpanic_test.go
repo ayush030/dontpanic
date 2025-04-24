@@ -1,10 +1,11 @@
 package analyzer_test
 
 import (
-	"dontpanic/analyzer"
 	"os"
 	"path/filepath"
 	"testing"
+
+	"github.com/ayush030/dontpanic/analyzer"
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/tools/go/analysis/analysistest"
